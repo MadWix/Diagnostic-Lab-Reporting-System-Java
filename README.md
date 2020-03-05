@@ -58,9 +58,6 @@ There’s many typecasting used project wise. Sometimes we had to get our job do
 
 # Impact of this Project:
 
-What impact this project will have on the society and economy?
-How will people be benefitted from your project?
-
 By using this system, the patients will be able to save their time, money and moreover they do not need to travel along with their bad condition. There is no chance of data loss. Users can access this system from anywhere and anytime. The relationship between admin and patient will be stronger.
 
 # Limitations and Possible Future Improvements:
